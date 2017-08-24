@@ -1,0 +1,26 @@
+
+.well{
+background-color:tomato !important;
+}
+
+.Event
+{
+    background-color:gainsboro !important;
+    width: 400px;
+    height: 240;
+    align-content: center;
+}
+
+.container
+{
+    float:bottom;
+     width: 300px;
+    border: 25px ;
+    padding: 25px;
+    margin: 25px;
+}
+
+.ds{
+    padding-left:100px;
+    border: 10 border-solid black;
+}
